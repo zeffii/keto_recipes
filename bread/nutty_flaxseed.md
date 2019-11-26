@@ -8,7 +8,7 @@ text format:
 ### Nutty Loaf. Not really bread but has fabulous texture.
 
 1. Silicon Moulds are great.
-2. Note: when you slice you do not have to interleaf these breads with
+2. Note: when you slice you do not have to interleaf these breads with paper: They don't stick to one another.
 
 ### MAKES ONE:
 

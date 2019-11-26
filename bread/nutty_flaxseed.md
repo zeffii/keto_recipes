@@ -27,4 +27,4 @@ text format:
 
 ### MAKES TWO:
 
-everything double, except brazuk nuts, use slightly more  than double.
+everything double, except brazil nuts, use slightly more  than double.

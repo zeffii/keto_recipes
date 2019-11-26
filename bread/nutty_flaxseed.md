@@ -5,26 +5,26 @@ from Dr Garry Lee ( @Gearoidmuar - twitter)
 
 text format:
 
-Nutty Loaf. Not really bread but has fabulous texture.
+# Nutty Loaf. Not really bread but has fabulous texture.
 
 1. Silicon Moulds are great.
 2. Note: when you slice you do not have to interleaf these breads with
 
-MAKES ONE:
+# MAKES ONE:
 
-50g ground linseed/flaxseed (Coffee grinder) or store bought.
-135g sunflower seeds (not ground)
-90g linseeds (not ground)
-65g Brazil nuts, chopped.
-4 Tbsp psyillium husks (binder) (healthfood stores..)
-2 Tbsp Chia seeds (optional_)
-1 tsp fine salt
-3 Tbsp coconut oil (melt more in microwave, put excess back in jar)
+- 50g ground linseed/flaxseed (Coffee grinder) or store bought.
+- 135g sunflower seeds (not ground)
+- 90g linseeds (not ground)
+- 65g Brazil nuts, chopped.
+- 4 Tbsp psyillium husks (binder) (healthfood stores..)
+- 2 Tbsp Chia seeds (optional_)
+- 1 tsp fine salt
+- 3 Tbsp coconut oil (melt more in microwave, put excess back in jar)
   - or Olive oil.
-350cc water
+- 350cc water
 
 55min 200c.
 
-MAKES TWO:
+# MAKES TWO:
 
 everything double, except brazuk nuts, use slightly more  than double.

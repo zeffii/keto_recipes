@@ -5,12 +5,12 @@ from Dr Garry Lee ( @Gearoidmuar - twitter)
 
 text format:
 
-# Nutty Loaf. Not really bread but has fabulous texture.
+### Nutty Loaf. Not really bread but has fabulous texture.
 
 1. Silicon Moulds are great.
 2. Note: when you slice you do not have to interleaf these breads with
 
-# MAKES ONE:
+### MAKES ONE:
 
 - 50g ground linseed/flaxseed (Coffee grinder) or store bought.
 - 135g sunflower seeds (not ground)
@@ -25,6 +25,6 @@ text format:
 
 55min 200c.
 
-# MAKES TWO:
+### MAKES TWO:
 
 everything double, except brazuk nuts, use slightly more  than double.
